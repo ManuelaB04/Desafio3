@@ -1,0 +1,97 @@
+.body{
+    background-color: aliceblue;
+    color: #775548;
+    font-family: Arial, sans-serif;
+}
+
+/*LOGO*/
+.body .head .section .article .img{
+    display: flex;
+    width: 100vw; 
+    height: 100%; 
+    object-fit: cover;
+}
+
+/*INFORMACIÓN*/
+.body .main .section .informacion .strong{
+    color:#d8b03b
+}
+
+.body .main .section .informacion .strong .comollegar{
+    color:#d8b03b
+}
+
+.body .main .section .informacion .strong .tarifas{
+    color:#d8b03b
+}
+
+.body .main .section .informacion .strong .descuentos{
+    color:#d8b03b
+}
+
+.body .main .section .informacion .strong .contactos{
+    color:#d8b03b
+}
+
+/*TITULO*/
+.body .main .section .titulo{
+    color: #7d6562;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+/*INSTALACIONES*/
+.body .main .section .instalaciones .Header{
+    color: #d0c0b9;
+    background-color: #775548;
+    line-height: 1.5;
+}
+
+/*ALQUILERES*/
+.body .main .section .alquileres .Header{
+    color: #d0c0b9;
+    background-color: #775548;
+    line-height: 1.5;
+}
+
+.body .main .section .alquileres .main .cabañas{
+    color:#d8b03b
+}
+
+.body .main .section .alquileres .main .carpas{
+    color:#d8b03b
+}
+
+.body .main .section .alquileres .main .bicicletas{
+    color:#d8b03b
+}
+
+/*NOTAS DE DIARIOS*/
+.body .main .section .notasdiarios .Header{
+    color: #d0c0b9;
+    background-color: #775548;
+    line-height: 1.5;
+}
+
+.body .main .section .notasdiarios .main{
+    font-family: sans-serif;
+}
+
+.body .main .section .notasdiarios .main .nacion{
+    color: #43abc4
+}
+
+.body .main .section .notasdiarios .main .pagina{
+    color: #ed7d70
+}
+
+/*PORQUE ELEGIRNOS*/
+.body .main .section .elegirnos .Header{
+    color: goldenrod;
+    background-color: #775548;
+    line-height: 1.5;
+}
+
+.body .main .section .elegirnos .main .url{
+    color: goldenrod;
+}

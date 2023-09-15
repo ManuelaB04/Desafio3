@@ -1,0 +1,27 @@
+.body{
+    background-color: aliceblue;
+    color: #775548;
+    font-family: Arial, sans-serif;
+}
+
+/*TITULO*/
+.body .header{
+    color: #7d6562;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*CONTACTANOS*/
+.body .main .section .contactanos{
+    color: #775548;
+    background-color:  #d0c0b9;
+    line-height: 1.5;
+}
+
+
+/*CONTACTOS*/
+.body .main .section .contactos{
+    color: #775548;
+    background-color:  #d0c0b9;
+    line-height: 1.5;
+}
+
